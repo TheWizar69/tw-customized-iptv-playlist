@@ -1,0 +1,21 @@
+#EXTM3U
+#=======================================
+# Name: TheWizard Customized IPTV Playlist
+# Credits: johirxofficial, iptv-org
+#=======================================
+# ==========================================================================================================
+# OTV playlist link: https://raw.githubusercontent.com/johirxofficial/otv-auto-updated-playlist/main/otv.m3u
+# iptv-org playlist link: https://iptv-org.github.io/iptv/index.m3u
+# ==========================================================================================================
+
+#EXTINF:-1 tvg-id="" tvg-name="Sun Gemini HD" tvg-logo="http://openboxv8s.com/india/sun_gemini.png" group-title="Telugu",Sun Gemini HD
+http://mxonlive.xyz/live/xap/250855.m3u8?e=1788932866&token=7e98e816dad69abfce80c8be9d5132aada95f48dc4a97e08f3132f2a0dcce5db
+
+#EXTINF:-1 tvg-id="etvhd.in" tvg-name="Etv HD" tvg-logo="http://openboxv8s.com/india/etv_in.jpg" group-title="Telugu",Etv HD
+http://mxonlive.xyz/live/xap/250842.m3u8?e=1788932866&token=f3c193b929e087348090865f1962e6a5140f77ff76c7390d368d95373ebf139c
+
+#EXTINF:-1 tvg-id="" tvg-name="Star Maa HD" tvg-logo="http://openboxv8s.com/india/maa_tv.jpg" group-title="Telugu",Star Maa HD
+http://mxonlive.xyz/live/xap/250843.m3u8?e=1788932866&token=83ef2863026006d5001e6b0c1d92659b0bb5889abb4d0e305a27bc1e8a5f0639
+
+#EXTINF:-1 tvg-id="" tvg-name="Zee Telugu" tvg-logo="http://openboxv8s.com/india/zee-telugu-in.png" group-title="Telugu",Zee Telugu
+http://mxonlive.xyz/live/xap/250844.m3u8?e=1788932866&token=79b371067981064dbd082045603072ac8df2ae4e9134c7c9ac1f348d47298e70
