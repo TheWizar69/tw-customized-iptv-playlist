@@ -8,14 +8,14 @@
 # iptv-org playlist link: https://iptv-org.github.io/iptv/index.m3u
 # ==========================================================================================================
 
-#EXTINF:-1 tvg-id="" tvg-name="Sun Gemini HD" tvg-logo="http://openboxv8s.com/india/sun_gemini.png" group-title="Telugu",Sun Gemini HD
+#EXTINF:-1 tvg-id="" tvg-name="IND: TG: Gemini HD" tvg-logo="http://openboxv8s.com/india/sun_gemini.png" group-title="IND | TELUGU D2H",IND: TG: Gemini HD
 http://mxonlive.xyz/live/xap/250855.m3u8?e=1789011143&token=f059b0c595c53688e2dc1386151fa2de2f5474dc5e0cbb82642755a6327a22f8
 
-#EXTINF:-1 tvg-id="etvhd.in" tvg-name="Etv HD" tvg-logo="http://openboxv8s.com/india/etv_in.jpg" group-title="Telugu",Etv HD
+#EXTINF:-1 tvg-id="etvhd.in" tvg-name="IND: TG: Etv HD" tvg-logo="http://openboxv8s.com/india/etv_in.jpg" group-title="IND | TELUGU D2H",IND: TG: Etv HD
 http://mxonlive.xyz/live/xap/250842.m3u8?e=1789011143&token=ec2e647cfa63960c95fb8ce365bcfc5a531ce5fe7f24d95aa3475386eb1d9e8f
 
-#EXTINF:-1 tvg-id="" tvg-name="Star Maa HD" tvg-logo="http://openboxv8s.com/india/maa_tv.jpg" group-title="Telugu",Star Maa HD
+#EXTINF:-1 tvg-id="" tvg-name="IND: TG: Maa HD" tvg-logo="http://openboxv8s.com/india/maa_tv.jpg" group-title="IND | TELUGU D2H",IND: TG: Maa HD
 http://mxonlive.xyz/live/xap/250843.m3u8?e=1789011143&token=82943786217da4a15632c13bd99eadb9ddc04d55d5ecab19741a85c4fd0e628e
 
-#EXTINF:-1 tvg-id="" tvg-name="Zee Telugu" tvg-logo="http://openboxv8s.com/india/zee-telugu-in.png" group-title="Telugu",Zee Telugu
-http://mxonlive.xyz/live/xap/250844.m3u8?e=1789011143&token=a8b49e5fc02b2b40cf95512aca53c54e0ea2bd4b601b3f1f55713f0d681412e1
+#EXTINF:-1 tvg-id="" tvg-name="IND: TG: ZEE TELUGU" tvg-logo="http://openboxv8s.com/india/zee-telugu-in.png" group-title="IND | TELUGU D2H",IND: TG: ZEE TELUGU
+http://mxonlive.xyz/live/xap/250844.m3u8?e=1789029856&token=78cbc74c039ac7727c819fda39ef937e491b883d716ed0f53aafc6959ece147b
