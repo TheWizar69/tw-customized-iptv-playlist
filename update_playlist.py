@@ -104,13 +104,17 @@ def main():
     header = """#EXTM3U
 #=======================================
 # Name: TheWizard Customized IPTV Playlist
+# Credits: johirxofficial, iptv-org
 #=======================================
+# ==========================================================================================================
+# OTV playlist link: https://raw.githubusercontent.com/johirxofficial/otv-auto-updated-playlist/main/otv.m3u
+# iptv-org playlist link: https://iptv-org.github.io/iptv/index.m3u
+# ==========================================================================================================
 """
 
     blocks = ["\n".join([extinf] + rest) for _, extinf, rest in output]
     PLAYLIST_FILE.write_text(
-        header + "\n" + "\n\n".join(blocks) + "\n",
-        encoding="utf-8"
+        header + "\n" + "\n\n".join(blocks) + "\n", encoding="utf-8"
     )
 
     print(f"Selected: {len(selected)}")
