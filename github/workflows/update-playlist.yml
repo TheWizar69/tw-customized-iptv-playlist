@@ -1,23 +1,21 @@
-name: Update selected IPTV channels
+name: Update Selected IPTV Channels
 
 on:
   schedule:
-    - cron: "17 * * * *"
+    # Check the source every 5 minutes. The job commits only when the
+    # selected source entries actually changed.
+    - cron: "*/5 * * * *"
   workflow_dispatch:
 
 permissions:
   contents: write
 
-concurrency:
-  group: update-playlist
-  cancel-in-progress: false
-
 jobs:
-  update:
+  update-playlist:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Check out repository
+      - name: Checkout repository
         uses: actions/checkout@v4
 
       - name: Set up Python
@@ -25,17 +23,17 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Refresh selected channel URLs
+      - name: Check and refresh complete source entries
         run: python update_playlist.py
 
-      - name: Commit updated playlist
+      - name: Commit and push if changed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add thewizard.m3u
           if git diff --cached --quiet; then
-            echo "No playlist changes found."
+            echo "No changes."
           else
-            git commit -m "Update selected channel links"
+            git commit -m "Auto-update selected IPTV channels"
             git push
           fi
