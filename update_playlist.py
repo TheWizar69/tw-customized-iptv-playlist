@@ -9,7 +9,7 @@ SOURCE_URL = (
     "johirxofficial/otv-auto-updated-playlist/main/otv.m3u"
 )
 CHANNELS_FILE = Path("channels.txt")
-PLAYLIST_FILE = Path("thewizard.m3u")
+PLAYLIST_FILE = Path("tw.m3u")
 
 
 def fetch(url):
@@ -57,7 +57,7 @@ def main():
     if not CHANNELS_FILE.exists():
         sys.exit("ERROR: channels.txt not found.")
     if not PLAYLIST_FILE.exists():
-        sys.exit("ERROR: thewizard.m3u not found.")
+        sys.exit("ERROR: tw.m3u not found.")
 
     selected = [
         line.strip()
@@ -93,11 +93,10 @@ def main():
     header = """#EXTM3U
 #=======================================
 # Name: TheWizard Customized IPTV Playlist
-# Credits: johirxofficial, iptv-org
+# Credit: johirxofficial
 #=======================================
 # ==========================================================================================================
 # OTV playlist link: https://raw.githubusercontent.com/johirxofficial/otv-auto-updated-playlist/main/otv.m3u
-# iptv-org playlist link: https://iptv-org.github.io/iptv/index.m3u
 # ==========================================================================================================
 """
 
