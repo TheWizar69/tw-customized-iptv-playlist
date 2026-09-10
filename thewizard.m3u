@@ -8,14 +8,218 @@
 # iptv-org playlist link: https://iptv-org.github.io/iptv/index.m3u
 # ==========================================================================================================
 
-#EXTINF:-1 tvg-id="" tvg-name="IND: TG: Gemini HD" tvg-logo="http://openboxv8s.com/india/sun_gemini.png" group-title="IND | TELUGU D2H",IND: TG: Gemini HD
-http://mxonlive.xyz/live/xap/250855.m3u8?e=1789011143&token=f059b0c595c53688e2dc1386151fa2de2f5474dc5e0cbb82642755a6327a22f8
+#EXTINF:-1 tvg-id="geminitvhd.in" tvg-name="IND: TG: Maa Movies" tvg-logo="" group-title="IND | TELUGU D2H",IND: TG: Maa Movies
+http://mxonlive.xyz/live/xap/250841.m3u8?e=1789088371&token=f2fd5b02d9c1da0efd178245c02f4165de0e9992ec0724087835c77b3609d32a
 
-#EXTINF:-1 tvg-id="etvhd.in" tvg-name="IND: TG: Etv HD" tvg-logo="http://openboxv8s.com/india/etv_in.jpg" group-title="IND | TELUGU D2H",IND: TG: Etv HD
-http://mxonlive.xyz/live/xap/250842.m3u8?e=1789011143&token=ec2e647cfa63960c95fb8ce365bcfc5a531ce5fe7f24d95aa3475386eb1d9e8f
+#EXTINF:-1 tvg-id="" tvg-name="IND: TG: STAR MAA MOVIES FHD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Star-Maa-Movies-HD.png" group-title="IND | TELUGU D2H",IND: TG: STAR MAA MOVIES FHD
+http://mxonlive.xyz/live/xap/381117.m3u8?e=1789088371&token=a8d736729a4a5ed52a2368d56ea8be0102d43831f123833477606c8a501259a1
 
 #EXTINF:-1 tvg-id="" tvg-name="IND: TG: Maa HD" tvg-logo="http://openboxv8s.com/india/maa_tv.jpg" group-title="IND | TELUGU D2H",IND: TG: Maa HD
-http://mxonlive.xyz/live/xap/250843.m3u8?e=1789011143&token=82943786217da4a15632c13bd99eadb9ddc04d55d5ecab19741a85c4fd0e628e
+http://mxonlive.xyz/live/xap/250843.m3u8?e=1789088371&token=84a79e01107209cbca025429aeef3ccfdf722f4ce5b7fe6c43878d79eb2a98ff
+
+#EXTINF:-1 tvg-id="" tvg-name="IND: TG: STAR MAA FHD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Star-Maa.png" group-title="IND | TELUGU D2H",IND: TG: STAR MAA FHD
+http://mxonlive.xyz/live/xap/381103.m3u8?e=1789088371&token=a3788573c2c9d8ee73d57d5652c3a4e774b45dfaf911d4496ee6524434609b4d
+
+#EXTINF:-1 tvg-id="maagold.in" tvg-name="IND: TG: STAR MAA GOLD" tvg-logo="http://openboxv8s.com/india/maa_gold.jpg" group-title="IND | TELUGU D2H",IND: TG: STAR MAA GOLD
+http://mxonlive.xyz/live/xap/250845.m3u8?e=1789088371&token=7da9d6cf017f11ad03321d8e726ed0e86889676d49e57524821d645ed3bc9982
 
 #EXTINF:-1 tvg-id="" tvg-name="IND: TG: ZEE TELUGU" tvg-logo="http://openboxv8s.com/india/zee-telugu-in.png" group-title="IND | TELUGU D2H",IND: TG: ZEE TELUGU
-http://mxonlive.xyz/live/xap/250844.m3u8?e=1789029856&token=78cbc74c039ac7727c819fda39ef937e491b883d716ed0f53aafc6959ece147b
+http://mxonlive.xyz/live/xap/250844.m3u8?e=1789088371&token=dd8ee15b6ec4888ced7e00a7e42f4670d314e5a79474d54b8ee4d11d53449243
+
+#EXTINF:-1 tvg-id="geminimovieshd.in" tvg-name="IND: TG: GEMINI movies" tvg-logo="http://openboxv8s.com/india/sun_gemini_movies.png" group-title="IND | TELUGU D2H",IND: TG: GEMINI movies
+http://mxonlive.xyz/live/xap/250846.m3u8?e=1789088371&token=1346c0e9f929f9fe8d6320fafd6095d5679d9d42ee9d2afeaba20e6df8709eb1
+
+#EXTINF:-1 tvg-id="geminicomedy.in" tvg-name="IND: TG: GEMINI comedy" tvg-logo="http://openboxv8s.com/india/sun_gemini_comedy.png" group-title="IND | TELUGU D2H",IND: TG: GEMINI comedy
+http://mxonlive.xyz/live/xap/250847.m3u8?e=1789088371&token=5caf94bbcb2c352e5af4857a4538e0ae3fc3fa961b0acf0780ba9d947a7ab07b
+
+#EXTINF:-1 tvg-id="geminilife.in" tvg-name="IND: TG: Gemini life" tvg-logo="http://openboxv8s.com/india/sun_gemini_life.jpg" group-title="IND | TELUGU D2H",IND: TG: Gemini life
+http://mxonlive.xyz/live/xap/250848.m3u8?e=1789088371&token=a681475ea230ce3da3c8050635daa7f743927411ae662e34bf8a79714fa5b904
+
+#EXTINF:-1 tvg-id="etvhd.in" tvg-name="IND: TG: Etv HD" tvg-logo="http://openboxv8s.com/india/etv_in.jpg" group-title="IND | TELUGU D2H",IND: TG: Etv HD
+http://mxonlive.xyz/live/xap/250842.m3u8?e=1789088371&token=26936dc620107cffeac57fb7936fd65194ee2569793fb2fd319981831135cad1
+
+#EXTINF:-1 tvg-id="etvplus.in" tvg-name="IND: TG: ETV PLUS" tvg-logo="http://openboxv8s.com/india/etv_in_plus.png" group-title="IND | TELUGU D2H",IND: TG: ETV PLUS
+http://mxonlive.xyz/live/xap/250849.m3u8?e=1789088371&token=70ef80b3df03cc1b8358e2b229447c2d35241abbe144f870a089ceeeb1ebda1d
+
+#EXTINF:-1 tvg-id="etvlife.in" tvg-name="IND: TG: ETV LIFE" tvg-logo="http://openboxv8s.com/india/etv_in_life.png" group-title="IND | TELUGU D2H",IND: TG: ETV LIFE
+http://mxonlive.xyz/live/xap/250850.m3u8?e=1789088371&token=b9e20af2e7ec7e69b2f2759979b553458f2364456bb08c7e5e70e57b780d36cd
+
+#EXTINF:-1 tvg-id="etvcinema.in" tvg-name="IND: TG: ETV Cinema" tvg-logo="http://openboxv8s.com/india/etv_in_cinema.png" group-title="IND | TELUGU D2H",IND: TG: ETV Cinema
+http://mxonlive.xyz/live/xap/250851.m3u8?e=1789088371&token=d7ba945e06f738967e9267b6527e1ad29db87d60b3ff42a9546546cd911f6948
+
+#EXTINF:-1 tvg-id="geminimusic.in" tvg-name="IND: TG: GEMINI MUSIC" tvg-logo="http://openboxv8s.com/india/sun_gemini_music.png" group-title="IND | TELUGU D2H",IND: TG: GEMINI MUSIC
+http://mxonlive.xyz/live/xap/250852.m3u8?e=1789088371&token=a03ad6af9ad3825507d9ba3fe732aa1a52f349d8420f45e8ce13bb672ff3d928
+
+#EXTINF:-1 tvg-id="" tvg-name="IND: TG: Gemini HD" tvg-logo="http://openboxv8s.com/india/sun_gemini.png" group-title="IND | TELUGU D2H",IND: TG: Gemini HD
+http://mxonlive.xyz/live/xap/250855.m3u8?e=1789088371&token=e0f28d1de5e53b704e5f67ebba6d771d9f998cb5678399423789f95112842fd1
+
+#EXTINF:-1 tvg-id="rajmusixtelugu.in" tvg-name="IND: TG: Raj Musix" tvg-logo="http://openboxv8s.com/india/raj_musix_telugu.jpg" group-title="IND | TELUGU D2H",IND: TG: Raj Musix
+http://mxonlive.xyz/live/xap/250853.m3u8?e=1789088371&token=7bf1c8da956dc4dcc1385c26de29eb278406081547b7ec8225f4530fa730d6d7
+
+#EXTINF:-1 tvg-id="" tvg-name="IND: TG: TV9 Telugu" tvg-logo="http://fastplayer.uk/images/5cf1335aa3209e809616340c22c05a49.png" group-title="IND | TELUGU D2H",IND: TG: TV9 Telugu
+http://mxonlive.xyz/live/xap/250854.m3u8?e=1789088371&token=8a3217b9c63fd495733d15cbfd14930e1484017a256c3c2c74025300ffc0905e
+
+#EXTINF:-1 tvg-id="" tvg-name="IND: TG: ETV ABHIRUCHI" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/ETV-Abhiruchi.png" group-title="IND | TELUGU D2H",IND: TG: ETV ABHIRUCHI
+http://mxonlive.xyz/live/xap/381112.m3u8?e=1789088371&token=3d158b15e0216c60e9f3ba90e6f37bcbc9634b01ace6fffe297aecebb5f4acb9
+
+#EXTINF:-1 tvg-id="" tvg-name="IND: TG: ZEE CINEMALU HD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Zee-Cinemalu-HD.png" group-title="IND | TELUGU D2H",IND: TG: ZEE CINEMALU HD
+http://mxonlive.xyz/live/xap/381108.m3u8?e=1789088371&token=963078f3ff6ef826bde9701187777d0ac988c8bb6e71f2d97797094f74855da1
+
+#EXTINF:-1 tvg-id="" tvg-name="IND: TG: SONY BBC EARTH FHD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/SONY-BBC-Earth-HD.png" group-title="IND | TELUGU D2H",IND: TG: SONY BBC EARTH FHD
+http://mxonlive.xyz/live/xap/381102.m3u8?e=1789088371&token=f4025bfbfc06dd331b90c07c8ce83529edd2e4658b8df27094d17c21a069b7dc
+
+#EXTINF:-1 tvg-id="" tvg-name="IND: TG: NAT GEO WILD FHD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Nat-Geo-Wild-HD.png" group-title="IND | TELUGU D2H",IND: TG: NAT GEO WILD FHD
+http://mxonlive.xyz/live/xap/381099.m3u8?e=1789088371&token=20173c71fa5e1b30f9194f27a617522d5e7f18ee38d3c6c3429291aedabf5eac
+
+#EXTINF:-1 tvg-id="" tvg-name="IND: TG: DISCOVERY CHANNEL" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Discovery-Channel-1.png" group-title="IND | TELUGU D2H",IND: TG: DISCOVERY CHANNEL
+http://mxonlive.xyz/live/xap/381095.m3u8?e=1789088371&token=eaee59cda66640d2449741a0571509b9f61bbab4842bfa9091fe2bc557e9d579
+
+#EXTINF:-1 tvg-id="" tvg-name="IND: TG: CARTOON NETWORK" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Cartoon-Network.png" group-title="IND | TELUGU D2H",IND: TG: CARTOON NETWORK
+http://mxonlive.xyz/live/xap/381094.m3u8?e=1789088371&token=b444cfff8c27d1373c01850bfef2a57a5f89a942ada0822bb2cab41fed2f8c5e
+
+#EXTINF:-1 tvg-id="" tvg-name="IND: TG: SONY PIX FHD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/SONY-PIX-HD.png" group-title="IND | TELUGU D2H",IND: TG: SONY PIX FHD
+http://mxonlive.xyz/live/xap/381093.m3u8?e=1789088371&token=2683750774e609daf6d8843f9624b9b7354ea2bc3bb270f2df00f6e69631645a
+
+#EXTINF:-1 tvg-id="" tvg-name="IND: TG: 10 TV" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/10-TV.png" group-title="IND | TELUGU D2H",IND: TG: 10 TV
+http://mxonlive.xyz/live/xap/381088.m3u8?e=1789088371&token=7fc2bd4b9dcf45b92728409beee31ae342d8148b1b23ae54317aa0e1a03c536d
+
+#EXTINF:-1 tvg-id="" tvg-name="IND: TG: RAJ NEWS" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Raj-News.png" group-title="IND | TELUGU D2H",IND: TG: RAJ NEWS
+http://mxonlive.xyz/live/xap/381086.m3u8?e=1789088371&token=c9c9b2f4896fa6126be8363bcc31777947a374e840ce88cce28651add233f096
+
+#EXTINF:-1 tvg-id="" tvg-name="IND: TG: ABN ANDHRA JYOTHI" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Abn-Andhra.png" group-title="IND | TELUGU D2H",IND: TG: ABN ANDHRA JYOTHI
+http://mxonlive.xyz/live/xap/381085.m3u8?e=1789088371&token=206d28a255e27e6adc37ec88f3f56007f3262e597de9ed4e43be4fd8cb330d81
+
+#EXTINF:-1 tvg-id="" tvg-name="IND: TG: TV5 NEWS" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/TV5-News.png" group-title="IND | TELUGU D2H",IND: TG: TV5 NEWS
+http://mxonlive.xyz/live/xap/381084.m3u8?e=1789088371&token=95b249df661b885d9ee30ec6054b1934add0de236a060a7c837432481e577094
+
+#EXTINF:-1 tvg-id="" tvg-name="IND: TG: VANITHA" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Vanitha.png" group-title="IND | TELUGU D2H",IND: TG: VANITHA
+http://mxonlive.xyz/live/xap/381083.m3u8?e=1789088371&token=93236efb0db7c9d6e2cf80b0eeae5787ec1e8e9dbfb93c52816a1a9244295582
+
+#EXTINF:-1 tvg-id="" tvg-name="IND: TG: STUDIO YUVA" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Studio-Yuva.png" group-title="IND | TELUGU D2H",IND: TG: STUDIO YUVA
+http://mxonlive.xyz/live/xap/381180.m3u8?e=1789088371&token=b7c5c3df72b9ce6088669f342778a9e5f51321c64790a7913e9c850016604f32
+
+#EXTINF:-1 tvg-id="" tvg-name="IND: TG: HISTORY 18 FHD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/History-TV18-HD.png" group-title="IND | TELUGU D2H",IND: TG: HISTORY 18 FHD
+http://mxonlive.xyz/live/xap/381179.m3u8?e=1789088371&token=ac512cd9d0f304bf66bae4cc5177bdc491802d8f588203f2646fc854e69e82f0
+
+#EXTINF:-1 tvg-id="" tvg-name="IND: TG: VISSA TV" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Vissa-TV.png" group-title="IND | TELUGU D2H",IND: TG: VISSA TV
+http://mxonlive.xyz/live/xap/381176.m3u8?e=1789088371&token=a8dff81d726d7430da877c8f442c50490adeab2c3aa91963d484c9d29360a891
+
+#EXTINF:-1 tvg-id="" tvg-name="IND: TG: T NEWS" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/T-News.png" group-title="IND | TELUGU D2H",IND: TG: T NEWS
+http://mxonlive.xyz/live/xap/381171.m3u8?e=1789088371&token=da226bca7d9fc62aff70e6cef6e4fe1d372da0206b9ac69c1118b8bcb869d176
+
+#EXTINF:-1 tvg-id="" tvg-name="IND: TG: DD SAPTAGIRI" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/DD-Saptagiri.png" group-title="IND | TELUGU D2H",IND: TG: DD SAPTAGIRI
+http://mxonlive.xyz/live/xap/381166.m3u8?e=1789088371&token=0538a7c92b3da40b3c11a1715946794fb811470c1df860cd693aad3f0c5c8c3a
+
+#EXTINF:-1 tvg-id="" tvg-name="IND: TG: ETV ANDHRA PRADESH" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/ETV-Andhra-Pradesh.png" group-title="IND | TELUGU D2H",IND: TG: ETV ANDHRA PRADESH
+http://mxonlive.xyz/live/xap/381164.m3u8?e=1789088371&token=f409f740ad36abc1a3a3e6ea4e0243cbf0d6c57744e0e5241ccd7178a109b098
+
+#EXTINF:-1 tvg-id="" tvg-name="IND: TG: ETV TELANGANA" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/ETV-Telangana.png" group-title="IND | TELUGU D2H",IND: TG: ETV TELANGANA
+http://mxonlive.xyz/live/xap/381159.m3u8?e=1789088371&token=0b52c59ad92c73c2d8ce24af89719c0752054c11cfcc0af5983fd68d4da1786d
+
+#EXTINF:-1 tvg-id="" tvg-name="ININD: TG: SAKSHI TV" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Sakshi-TV.png" group-title="IND | TELUGU D2H",ININD: TG: SAKSHI TV
+http://mxonlive.xyz/live/xap/381154.m3u8?e=1789088371&token=8d3b9421514fe337bfcad66495c17afc7212751dd939dfff885098811e6f203c
+
+#EXTINF:-1 tvg-id="" tvg-name="IND: TG: TATA PLAY FITNESS" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Tata-Play-Fitness.png" group-title="IND | TELUGU D2H",IND: TG: TATA PLAY FITNESS
+http://mxonlive.xyz/live/xap/381147.m3u8?e=1789088371&token=56e95036bbfeaad5a3942f09700eaf63019e7e7827590cb3519937ee5abd16cf
+
+#EXTINF:-1 tvg-id="" tvg-name="IND: TG: TATA PLAY HOLLYWOOD LOCAL" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Tata-Play-Hollywood-Local.png" group-title="IND | TELUGU D2H",IND: TG: TATA PLAY HOLLYWOOD LOCAL
+http://mxonlive.xyz/live/xap/381146.m3u8?e=1789088371&token=bb91e0f8c50fbb06324776755f2b3d2f174bd6efcc7d130162b52b6794f7ea02
+
+#EXTINF:-1 tvg-id="" tvg-name="IND: TG: TATA PLAY ENGLISH IN TELUGU" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Tata-Play-English-in-Telugu.png" group-title="IND | TELUGU D2H",IND: TG: TATA PLAY ENGLISH IN TELUGU
+http://mxonlive.xyz/live/xap/381145.m3u8?e=1789088371&token=968b99b3a4f71a82dbc1ef5e4e7cf8e50d6ee03330d3f48f32f642d751c5d368
+
+#EXTINF:-1 tvg-id="" tvg-name="IND: TG: DISCOVERY WORLD FHD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Discovery-HD-World.png" group-title="IND | TELUGU D2H",IND: TG: DISCOVERY WORLD FHD
+http://mxonlive.xyz/live/xap/381141.m3u8?e=1789088371&token=83b083d6a86fc282b30c126ed3dba0477df9fc247d052144be14992f7e8987c4
+
+#EXTINF:-1 tvg-id="" tvg-name="IND: TG: NATIONAL GEOGRAPHIC FHD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/National-Geographic-HD.png" group-title="IND | TELUGU D2H",IND: TG: NATIONAL GEOGRAPHIC FHD
+http://mxonlive.xyz/live/xap/381139.m3u8?e=1789088371&token=fda2c63df1bf7e77cf6bea09f10e9f45a293e88868f37fdb5b5a0f3afec72f36
+
+#EXTINF:-1 tvg-id="" tvg-name="IND: TG: TATA PLAY TOONS+" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Tata-Play-Toons.png" group-title="IND | TELUGU D2H",IND: TG: TATA PLAY TOONS+
+http://mxonlive.xyz/live/xap/381130.m3u8?e=1789088371&token=bd5c8c297d0579f0f7bc068e95089fea5ef01d0e4dee40b3a494937f0d2416d1
+
+#EXTINF:-1 tvg-id="" tvg-name="IND: TG: GUBBARE" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Gubbare.png" group-title="IND | TELUGU D2H",IND: TG: GUBBARE
+http://mxonlive.xyz/live/xap/381129.m3u8?e=1789088371&token=3f1c7cdb8057e7e33eaf8a7d6fc9cd050480f6d38142f408c3bc1455db1cfff0
+
+#EXTINF:-1 tvg-id="" tvg-name="IND: TG: NTV TELUGU" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/NTV.png" group-title="IND | TELUGU D2H",IND: TG: NTV TELUGU
+http://mxonlive.xyz/live/xap/381126.m3u8?e=1789088371&token=9e6727c9b1783a19511b58c6f5f959275eeb9cd5b196e6eac395074a8dde2551
+
+#EXTINF:-1 tvg-id="" tvg-name="IND: TG: V6 NEWS" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/V6.png" group-title="IND | TELUGU D2H",IND: TG: V6 NEWS
+http://mxonlive.xyz/live/xap/381124.m3u8?e=1789088371&token=8673a45986f3ade541cd74303d6ccda6cfdb179b3a2a2b211f1aa901cfc43680
+
+#EXTINF:-1 tvg-id="" tvg-name="IND: TG: 4TV NEWS" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/4tv-News.png" group-title="IND | TELUGU D2H",IND: TG: 4TV NEWS
+http://mxonlive.xyz/live/xap/381121.m3u8?e=1789088371&token=4b01389fdb6edfdb5ea3e14d78d9495b3b889534e4b229459adb7945cd9bcca7
+
+#EXTINF:-1 tvg-id="" tvg-name="IND: TG: Kushi TV" tvg-logo="" group-title="IND | TELUGU D2H",IND: TG: Kushi TV
+http://mxonlive.xyz/live/xap/382286.m3u8?e=1789088371&token=6b2ef625bff7aa0a480f23cfb7cefc3ac47c5953b5565faa9eb3822584bfa1ed
+
+#EXTINF:-1 tvg-id="" tvg-name="IND: TG: iNews" tvg-logo="" group-title="IND | TELUGU D2H",IND: TG: iNews
+http://mxonlive.xyz/live/xap/382285.m3u8?e=1789088371&token=a2580d126779eace5fa8dd984af3e65429cb58112820759fb3dabadb4bc69714
+
+#EXTINF:-1 tvg-id="" tvg-name="IND: TG: India Now" tvg-logo="" group-title="IND | TELUGU D2H",IND: TG: India Now
+http://mxonlive.xyz/live/xap/382284.m3u8?e=1789088371&token=6b6bdd837f51ce494510fca9ee88595ae9e5f2b2899e1455c57f795b9e867eda
+
+#EXTINF:-1 tvg-id="" tvg-name="IND: TG: HMTV" tvg-logo="" group-title="IND | TELUGU D2H",IND: TG: HMTV
+http://mxonlive.xyz/live/xap/382283.m3u8?e=1789088371&token=1ae4d2f3e7e4277f557350917cc3a23213f2123608057968d84668462ac00191
+
+#EXTINF:-1 tvg-id="" tvg-name="IND: TG: Swatantra News" tvg-logo="" group-title="IND | TELUGU D2H",IND: TG: Swatantra News
+http://mxonlive.xyz/live/xap/382282.m3u8?e=1789088371&token=fb78f4491068f9d9f986b0e950dba4655ac3e3c12784bab773b81b39910936b4
+
+#EXTINF:-1 tvg-id="" tvg-name="IND: TG: Subhavartha_TV" tvg-logo="" group-title="IND | TELUGU D2H",IND: TG: Subhavartha_TV
+http://mxonlive.xyz/live/xap/382281.m3u8?e=1789088371&token=5efc767685d80a311afcc825fd1178e4352a48e632ff76b7d7ea1b519e3daf6e
+
+#EXTINF:-1 tvg-id="" tvg-name="IND: TG: Studio One" tvg-logo="" group-title="IND | TELUGU D2H",IND: TG: Studio One
+http://mxonlive.xyz/live/xap/382280.m3u8?e=1789088371&token=4b9a9cbbcd25e9299cafe1460eee4003fc0dcaef64bb5873f95f854767c57b1a
+
+#EXTINF:-1 tvg-id="" tvg-name="IND: TG: Sonic Telugu" tvg-logo="" group-title="IND | TELUGU D2H",IND: TG: Sonic Telugu
+http://mxonlive.xyz/live/xap/382279.m3u8?e=1789088371&token=9da3ea1d2cff5f8b4381b77c131916e99826e30e702f33b3ca19db025d251fd3
+
+#EXTINF:-1 tvg-id="" tvg-name="IND: TG: CVR News" tvg-logo="" group-title="IND | TELUGU D2H",IND: TG: CVR News
+http://mxonlive.xyz/live/xap/382278.m3u8?e=1789088371&token=4540aeb1c4f9fe16db28a2cd53efbc62dacf74cad09b069996bad30cf9732e45
+
+#EXTINF:-1 tvg-id="" tvg-name="IND: TG: CVR Health" tvg-logo="" group-title="IND | TELUGU D2H",IND: TG: CVR Health
+http://mxonlive.xyz/live/xap/382277.m3u8?e=1789088371&token=c75cf1d3e54c8b0df22a5f57492200cd9245d7cd2dd109833d1c1a68dd6a9ff2
+
+#EXTINF:-1 tvg-id="" tvg-name="IND: TG: CVR English News" tvg-logo="" group-title="IND | TELUGU D2H",IND: TG: CVR English News
+http://mxonlive.xyz/live/xap/382276.m3u8?e=1789088371&token=ae2e25f5de45ff59bea6d2592ee0937d47d66c118ab4a6d86969f9c232d61452
+
+#EXTINF:-1 tvg-id="" tvg-name="IND: TG: CN HD+ Telugu" tvg-logo="" group-title="IND | TELUGU D2H",IND: TG: CN HD+ Telugu
+http://mxonlive.xyz/live/xap/382275.m3u8?e=1789088371&token=d4ce63d4cf06c32920a8ef4e65dbb389502902faf14596d81edc349bb1bf1160
+
+#EXTINF:-1 tvg-id="" tvg-name="IND: TG: CARTOON NETWORK" tvg-logo="" group-title="IND | TELUGU D2H",IND: TG: CARTOON NETWORK
+http://mxonlive.xyz/live/xap/382274.m3u8?e=1789088371&token=76be5a66a2fa465682407b52b6eff9c97c7f3ebdcbe390a797e6848d0015daee
+
+#EXTINF:-1 tvg-id="" tvg-name="IND: TG: Calvary TV" tvg-logo="" group-title="IND | TELUGU D2H",IND: TG: Calvary TV
+http://mxonlive.xyz/live/xap/382273.m3u8?e=1789088371&token=d6e19ce9d87c017526dbafc05e4140d4e9c9ec750edddbb4efc0610fad7b2a7f
+
+#EXTINF:-1 tvg-id="" tvg-name="IND: TG: Big TV" tvg-logo="" group-title="IND | TELUGU D2H",IND: TG: Big TV
+http://mxonlive.xyz/live/xap/382272.m3u8?e=1789088371&token=0130ed58a19e6b250ec684293db2ee9609bec192b51136962e24768b848d3138
+
+#EXTINF:-1 tvg-id="" tvg-name="IND: TG: 99 TV" tvg-logo="" group-title="IND | TELUGU D2H",IND: TG: 99 TV
+http://mxonlive.xyz/live/xap/382271.m3u8?e=1789088371&token=673df9ff184e35f8929028a2bad76fb43282a78068d593c8f80c8394c7e28e98
+
+#EXTINF:-1 tvg-id="" tvg-name="IND: TG: PMC" tvg-logo="" group-title="IND | TELUGU D2H",IND: TG: PMC
+http://mxonlive.xyz/live/xap/382270.m3u8?e=1789088371&token=0518f45201568c0e42fe46c686f0d5068348dd1333344d87ce7ecb3e96eefbb9
+
+#EXTINF:-1 tvg-id="" tvg-name="IND: TG: Sri Venkateshwar Bhakti   ( Spiritual )" tvg-logo="" group-title="IND | TELUGU D2H",IND: TG: Sri Venkateshwar Bhakti   ( Spiritual )
+http://mxonlive.xyz/live/xap/382294.m3u8?e=1789088371&token=8e3df49c4d23fede45478a575c29073c0a589e4e0fde8ea4f64ba99d3a2380b0
+
+#EXTINF:-1 tvg-id="" tvg-name="IIND: TG: Hindu Dharmam  ( Spiritual )" tvg-logo="" group-title="IND | TELUGU D2H",IIND: TG: Hindu Dharmam  ( Spiritual )
+http://mxonlive.xyz/live/xap/382293.m3u8?e=1789088371&token=9d2012d951d78e6ee2bb477c72a1092cc4805001536687dde1b554e8c7087be9
+
+#EXTINF:-1 tvg-id="" tvg-name="IND: TG: Aastha Telugu    ( Spiritual )" tvg-logo="" group-title="IND | TELUGU D2H",IND: TG: Aastha Telugu    ( Spiritual )
+http://mxonlive.xyz/live/xap/382292.m3u8?e=1789088371&token=1fe1ab59ca90d9ff135898a0327326e39a108602477fea95d1cdac5caefa21ee
+
+#EXTINF:-1 tvg-id="" tvg-name="IND: TG: OM CVR  ( Spiritual )" tvg-logo="" group-title="IND | TELUGU D2H",IND: TG: OM CVR  ( Spiritual )
+http://mxonlive.xyz/live/xap/382291.m3u8?e=1789088371&token=fc9f81e81bdcab150195959c514f64bb1b58b18114cef0f262afc5a246708475
+
+#EXTINF:-1 tvg-id="" tvg-name="IND: TG: SVBC2  ( Spiritual )" tvg-logo="" group-title="IND | TELUGU D2H",IND: TG: SVBC2  ( Spiritual )
+http://mxonlive.xyz/live/xap/382290.m3u8?e=1789088371&token=916205f7593ac8852e0794c9a15257ea0f010e1fad5e0e4bfaaea36cbf5ec62e
+
+#EXTINF:-1 tvg-id="" tvg-name="IND: TG: Krishna Vani ( Spiritual )" tvg-logo="" group-title="IND | TELUGU D2H",IND: TG: Krishna Vani ( Spiritual )
+http://mxonlive.xyz/live/xap/382289.m3u8?e=1789088371&token=d4f1290a3c689a238d8e49890cdf8c5812754bc2f14c092d3586567fcb61ef64
+
+#EXTINF:-1 tvg-id="" tvg-name="IND: TG: Bhakti TV   ( Spiritual )" tvg-logo="" group-title="IND | TELUGU D2H",IND: TG: Bhakti TV   ( Spiritual )
+http://mxonlive.xyz/live/xap/382288.m3u8?e=1789088371&token=d34998cee6a13ae53c92f85bd59cd24a625bca6d5d0594c140faab423202f6a1
+
+#EXTINF:-1 tvg-id="" tvg-name="IND: TG: Aradana TV  ( Spiritual )" tvg-logo="" group-title="IND | TELUGU D2H",IND: TG: Aradana TV  ( Spiritual )
+http://mxonlive.xyz/live/xap/382287.m3u8?e=1789088371&token=b2208a9dcc39f8a31ebd405fd4585a461cf215f605682972a037df83f8764f1f
