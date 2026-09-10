@@ -12,7 +12,6 @@ IND: TG: STAR MAA GOLD
 IND: TG: GEMINI MUSIC
 IN | Star Sports 1 HD
 IN | Star Sports 2 HD
-IN | Star Sports 3 HD
 IN | SONY TEN 1 HD
 IN | SONY TEN 2 HD
 IN | SONY TEN 3 HD
@@ -27,5 +26,4 @@ IN | Astro Cricket HD
 SuperSport Cricket
 AU: FOX CRICKET 501
 UK: Sky Sports Cricket
-IN | Willow Xtra
 IN: Willow Cricket HD
