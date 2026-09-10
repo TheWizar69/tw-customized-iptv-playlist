@@ -1,15 +1,4 @@
 #!/usr/bin/env python3
-"""
-Refresh selected IPTV channel entries from the OTV source playlist.
-
-The names in channels.txt MUST be the exact source names.
-For each selected name, the COMPLETE source entry is copied into
-thewizard.m3u unchanged: #EXTINF metadata, logo, group, URL, etc.
-
-If a selected source channel is temporarily missing, the existing entry
-with the same name is retained rather than deleting it.
-"""
-
 from pathlib import Path
 from urllib.request import Request, urlopen
 import re
@@ -79,8 +68,8 @@ def main():
     source = parse_m3u(fetch(SOURCE_URL))
     existing = parse_m3u(PLAYLIST_FILE.read_text(encoding="utf-8-sig"))
 
-    source_map = {norm(name): entry for name, *entry in source}
-    existing_map = {norm(name): entry for name, *entry in existing}
+    source_map = {norm(name): (name, extinf, rest) for name, extinf, rest in source}
+    existing_map = {norm(name): (name, extinf, rest) for name, extinf, rest in existing}
 
     output = []
     updated = []
