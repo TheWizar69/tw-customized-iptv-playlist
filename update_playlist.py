@@ -92,7 +92,7 @@ def main():
 
     header = """#EXTM3U
 #=======================================
-# Name: TheWizard Customized IPTV Playlist
+# Name: TheWizard Customized OTV Playlist
 # Credit: johirxofficial
 #=======================================
 # ==========================================================================================================
